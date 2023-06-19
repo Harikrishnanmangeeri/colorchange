@@ -1,0 +1,17 @@
+#button-color{
+color:chartreuse;
+background-color: red;
+border-color: yellow;
+height: 7vh;
+width:60vh;
+}
+.div_main{
+  width: 100%;
+  height: 2000px;
+}
+.div-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
